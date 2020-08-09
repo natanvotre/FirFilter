@@ -44,6 +44,7 @@ rtl
 # Altera dependencies
 *.qpf
 *.qsf
+*.qws
 output_files
 incremental_db
 db
